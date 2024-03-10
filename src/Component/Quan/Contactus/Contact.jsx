@@ -78,7 +78,7 @@ function Contact(props) {
         <div className="contact-right">
           <form onSubmit={hamSubmit}>
             <div>
-              <label>Username</label>
+               <label>Username</label>
               <input type="text" name="username" onChange={hamChange} />
               <div className="error">{Errors.username}</div>
             </div>
