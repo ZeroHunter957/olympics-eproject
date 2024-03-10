@@ -1,42 +1,73 @@
-<p align="center"><img width="320" height="320" src="https://img.icons8.com/officel/480/olympic-rings.png" alt="olympic-rings"/></p>
+<div  align="center">
+<img width="320" height="320" src="https://img.icons8.com/officel/480/olympic-rings.png" alt="olympic-rings"/>
 
-<h3 align="center"> OLYMPICS </h3>
+<h3> OLYMPICS </h3>
 
-<p align="center">Slogan <br/>
-<a href="#">Explore the source »</a>
-<a href="#">Explore the documents »</a>
-</p>
+ Slogan
+  <br  />
+  <a  href="#"><strong>Explore the source »</strong></a>
+  <a  href="#" target="_blank"><strong>Explore the documents »</strong></a>
 
-<h3 align="center">Built With</h3>
-<p align="center">Below is the languages/libraries we used for this project: </p>
+  <br  /><a  href="#" target="_blank">View demo</a>
+  <a  href="#" target="_blank">Video</a>
+
+
+<h3>Built With</h3>
+Below is the languages/libraries we used for this project: <br/><br/>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+</div>
+
 **Features:**
-1. The Home Page should be created with proper sections, graphics and with a suitable logo
-2. Link on the home page must be included such as Home, About us, Gallery etc
-3. The look and feel of the project must be made user friendly and uniformity in the color combination must be maintained.
-4. The site should include
-- Games included in Olympics
-- Athletes
-- Related news
-- Statistics and records
-- Upcoming event news
-- History of previous events
-5. Each category mentioned above should brief user about respective topic.
-6. Details of athletes along with their personal information to be included.
-7. Videos of important records should be included (size limit should be considered)
-8. Navigation of the project must be made smooth.
-9. Site Map
-10. Gallery
-11. FAQs
+<ol>
+<li>
+The Home Page should be created with proper sections, graphics and with a suitable logo.</br>
+</li>
+<li>
+ink on the home page must be included such as Home, About us, Gallery etc.</br>
+</li>
+<li>
+The look and feel of the project must be made user friendly and uniformity in the color combination must be maintained.</br>
+</li>
+<li>
+The site should include
+  <ul>
+    <li>Games included in Olympics</li>
+    <li>Athletes</li>
+    <li>Related news</li>
+    <li>Statistics and records</li>
+    <li>Upcoming event news</li>
+    <li>History of previous events</li>
+  </ul></br>
+</li>
+<li>
+Each category mentioned above should brief user about respective topic.</br>
+</li>
+<li>
+Details of athletes along with their personal information to be included.</br>
+</li>
+<li>
+Videos of important records should be included (size limit should be considered).</br>
+</li>
+<li>
+Navigation of the project must be made smooth.</br>
+</li>
+<li>
+Site Map.
+</li>
+  <li>
+Gallery.
+</li>
+  <li>
+FAQs.
+</li>
+</ol>
 
-
-# Members of group
-<h3>Leader: Tran Minh Gia Bao Student1526172 </h3>
-
-### Members:
-Nguyen Thanh Binh Student1528048 <br/>
-Le Minh Quan Student1526156 <br/>
-Nguyen Huy Hoang Student1518664 <br/>
-Nguyen Thanh Trung Student1526157
+ ## Members of group
+ ### Leader : Tran Minh Gia Bao `Student1526172`
+#### Members:
+Nguyen Thanh Binh `Student1528048` <br/>
+Le Minh Quan `Student1526156` <br/>
+Nguyen Huy Hoang `Student1518664` <br/>
+Nguyen Thanh `Trung Student1526157`
