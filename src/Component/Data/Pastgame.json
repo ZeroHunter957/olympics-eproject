@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name":"BEIJING 2022",
+        "type":"Winter"
+    },{
+        "id":2,
+        "name":"TOKYO 2020",
+        "type":"Summer"
+    },{
+        "id":3,
+        "name":"PYEONGCHANG 2018",
+        "type":"Winter"
+    },{
+        "id":4,
+        "name":"RIO 2016",
+        "type":"Summer"
+    },{
+        "id":5,
+        "name":"SOCHI 2014",
+        "type":"Winter"
+    },{
+        "id":6,
+        "name":"LONDON 2012",
+        "type":"Summer"
+    },{
+        "id":7,
+        "name":"VANCOUVER 2010",
+        "type":"Winter"
+    },{
+        "id":8,
+        "name":"BEIJING 2008",
+        "type":"Summer"
+    },{
+        "id":9,
+        "name":"TURIN 2006",
+        "type":"Winter"
+    },{
+        "id":10,
+        "name":"ATHENS 2004",
+        "type":"Summer"
+    }
+]

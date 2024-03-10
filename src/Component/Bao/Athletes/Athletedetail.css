@@ -1,0 +1,53 @@
+.athletes-image {
+  width: 200px;
+  height: auto;
+  border: 1px solid #888;
+  border-radius: 150px;
+}
+
+.athletes-title {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 20px;
+  text-wrap: nowrap;
+}
+
+.athletes-main {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.athletes-side {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 10px;
+  margin-left: 15px;
+  height: 200px;
+  border-left: 1px solid #888;
+}
+
+.athletes-info {
+  margin: auto;
+  padding-left: 100px;
+  width: 350px;
+  border-bottom: 1px solid #888;
+}
+
+.athletes-history {
+  margin-top: 50px;
+  margin-left: 200px;
+  font-size: 40px;
+  width: 800px;
+}
+
+.athletes-detail {
+  font-size: 20px;
+  margin-top: 50px;
+  width: 800px;
+}
+
+.athletes-history,
+.athletes-detail {
+  border-top: 1px solid #888;
+}

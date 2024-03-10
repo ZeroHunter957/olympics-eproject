@@ -1,0 +1,59 @@
+.list-athlete {
+  display: grid;
+  grid-template-columns: 3% 3% 3% 3% 3% 3% 3%;
+  justify-content: space-around;
+  line-height: 50px;
+  width: 1500px;
+}
+
+.athlete-box {
+  margin: 15px 0px;
+  width: 210px;
+}
+
+.athlete-image {
+  height: auto;
+  width: 70px;
+  border: 1px solid black;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+
+.athlete-image:hover {
+  transform: scale(1.45);
+}
+
+.athlete-title {
+  text-decoration: none;
+  color: black;
+}
+
+.athlete-title:hover {
+  text-decoration: underline;
+}
+
+/* swiper */
+.related-news {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.related-box {
+  width: 400px;
+  margin-left: 60px;
+}
+
+.related-image {
+  width: 399px;
+  height: auto;
+}
+
+.related-title {
+  text-decoration: none;
+  color: black;
+  padding-top: 5px;
+}
+
+.related-title:hover {
+  text-decoration: underline;
+}

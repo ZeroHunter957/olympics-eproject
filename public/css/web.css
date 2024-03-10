@@ -1,0 +1,392 @@
+.header{
+    width: 100%;
+}
+.login{
+    background-color: #e4e4e4;
+}
+.login button{
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 5px;
+    border-radius: 15px;
+}
+.login .user{
+    margin-right: 5px;
+    font-size: 15px;
+}   
+.login ul li a{
+    text-align: center;
+}
+.header .container-fluid{
+    display: flex;
+    justify-content: center;
+}
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #ffffff;
+}
+.header a{
+    color: black;
+}
+.header a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.home .first{
+    margin-top: 120px;
+    margin-bottom: 160px;
+}
+.home .first h1{
+    font-family:"Oswald", Helvetica, sans-serif;
+    font-size: 87px;
+    font-weight: 500;
+    width: 100%;
+}
+.home .first h2{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    line-height: 190%;
+}
+.home h3{
+    letter-spacing: 0.5px;
+    font-size: 36px;
+    margin-bottom: 10px;
+    font-family: "Bebas Neue", sans-serif;
+}
+.sliders .carousel-inner .carousel-caption .chu,
+.sliders .carousel-inner .carousel-caption .anh
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sliders .carousel-inner .carousel-caption .chu h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+}
+.sliders .carousel-inner .carousel-caption .chu p{
+    font-family: "Bebas Neue",sans-serif;
+    font-size: 6vw;
+}
+.sliders .carousel-inner .carousel-caption img{
+    box-shadow: 0px 3px 10px 0px rgb(100, 100, 100);
+}
+.khampha{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    border: none;
+}
+.khampha .khung1,
+.khampha .khung2,
+.khampha .khung3{
+    display: inline-block;
+    background-color: #ffffff;
+    text-align: center;
+    width: 300px;
+    height: 320px;
+    border: none;
+    border-radius: 5px;
+    margin: 0px 10px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    box-shadow: 0.8px 6px 0px 0.2px;
+}
+.khampha .khung1:hover,
+.khampha .khung2:hover,
+.khampha .khung3:hover{
+    transform: scale(1.1);
+    transition: all 1s;
+}
+.khampha button{
+    text-align: left;
+    margin: 0px 8px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 90%;
+    border: none;
+    color: black;
+}
+.khampha .icon2{
+    float: inline-end;
+    margin-top: 4.2px;
+}
+.Aroundthegame{
+    margin: auto 8%;
+}
+.Aroundthegame h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 90px;
+    border-top: 1px solid #b9b9b9;
+}
+.Aroundthegame .noidung{
+    text-align: center;
+}
+.Aroundthegame .noidung .hang1,
+.Aroundthegame .noidung .hang2,
+.Aroundthegame .noidung .hang3{
+    display: flex;
+}
+.Aroundthegame .noidung .card{
+    margin: 10px;
+    width: auto;
+    height: 320px;
+    overflow: hidden;
+}
+.Aroundthegame .noidung .card img{
+    border-radius: 5px;
+    filter: brightness(60%);
+}
+.Aroundthegame .noidung .card .card-body{
+    position: absolute;
+    color: #ffffff;
+    width: 95%;
+    height: 90%;
+    margin: 15px;
+}
+.Aroundthegame .noidung .card .card-body h5{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 70px;
+}
+.Aroundthegame .noidung .card .card-body a{
+    padding: 10px 22px;
+}
+.pastgames{
+    margin: 5% 8%;
+}
+.pastgames h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 100px;
+    border-top: 1px solid #b9b9b9;
+}
+.test .accordion{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.footer {
+    background-color: black;
+}
+.footer .anh img{
+    position: absolute;
+    width: 13%;
+    height: 25%;
+    margin: 0px 210px;
+}
+.footer .f-link .cot{
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    margin-left: 13%;
+}
+.footer .f-link .cot a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer .f-link .cot .cot-1,
+.footer .f-link .cot .cot-2,
+.footer .f-link .cot .cot-3,
+.footer .f-link .cot .cot-4{
+    margin: 28px 40px;
+    font-size: 18.5px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 250%;
+}
+.footer .f-link .cot .duoi{
+    color: rgb(157, 157, 157);
+}
+.footer .f-link .cot .duoi:hover{
+    color: #ffffff;
+}
+.footer .f-duoi{
+    display: flex;
+    justify-content: center;
+}
+.footer .f-duoi .f-icons{
+    border-top: 1px solid white;
+    text-align: center;
+    width: 68%;
+    padding: 25px 0px;
+}
+.footer .f-duoi .f-icons a{
+    margin: 0px 20px;
+}
+.footer .chantrang{
+    text-align: center;
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 13px;
+}
+.h-find .offcanvas-title{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: xx-large;
+}
+.h-find .offcanvas-body .timkiem{
+    display: flex;
+    justify-content: center;
+}
+.h-find .offcanvas-body .timkiem .find{
+    width: 75%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.tab-content .past-g:hover{
+    background-color: black;
+    color: white;
+}
+.tab-content .tab-pane a{
+    text-decoration: none;
+    color: black;
+}
+.home-more .row{
+    margin-bottom: 30px
+}
+.Paris .h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 5vw;
+}
+.p-new .card{
+    border: none;
+    display: block;
+    border-radius: 5xp;
+}
+.p-new .card .box{
+    overflow: hidden;
+    border-radius: 5px;
+}
+.p-new .card img:hover{
+    transform: scale(1.2);
+    overflow: hidden;
+    transition: all 1s;
+}
+.Paris .p-sport .bangthethao{
+    font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Paris .p-sport .bangthethao a{
+    text-decoration: none;
+    color: black;
+}
+.Ab .title{
+    font-size: 10vw;
+    font-family: "Bebas Neue", sans-serif;
+    line-height: 10.5vw;
+}
+.Ab .ct{
+    margin-left: 1vw;
+    overflow: auto;
+    height: 29vw;
+    font-size: 1.1vw;
+}
+.p-faqs h1{
+    font-size: 2.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p-faqs .accordion-body{
+    font-size: 1.2vw;
+}
+.menu-1 a{
+    text-decoration: none;
+    color: rgb(91, 91, 91);
+}
+.menu-1 a:hover{
+    color: rgb(67, 136, 157);
+}
+.ab{
+    margin: 20px 0px;
+}
+.ab .h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 5.5vw;
+}
+.ab .info1{
+    overflow: auto;
+    font-size: 1.2vw;
+}
+.contents h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 5vw;
+    text-align: center;
+}
+.contents .list-sport .sp{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+.contents .list-sport .sp button{
+    background-color: white;
+    border: none;
+}
+.contents .list-sport .sp button:hover{
+    background-color: black;
+    color: white;
+
+}
+.contents .list-replay a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0px;
+}
+.contents .list-replay a:hover{
+    text-decoration: underline;
+}
+.mascot-content .ndung{
+    height: 30vw;
+    font-size: 1.2vw;
+    overflow: auto;
+}
+.torch-content .ndung{
+    overflow: auto;
+    height: 30.5vw;
+}
+.olympics-f h1{
+    font-size: 5vw;
+    font-family: "Bebas Neue", sans-serif;
+}
+.olympics-f img{
+    box-shadow: 0px 3px 10px 0px black;
+}
+.olympics-f img:hover{
+    transform: scale(1.2);
+    transition: all 0.8s;
+}
+.card-body h5{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 5.5vw;
+}
+.card-body .card-text{
+    font-size: 1.6vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ancientgames .text{
+    margin: 15px 300px;
+}
+.ancientgames .chu{
+    font-size: 1.05vw;
+}
+.ancientgames h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 5vw;
+    text-decoration:overline;
+}
+.ancientgames .chu1{
+    font-size: 1.1vw;
+}
+.ancientgames .chu2{
+    font-size: 1vw;
+}
+.ancientgames .chu3{
+    font-size: 1.6vw;
+}
+.ancientgames .chu4{
+    font-size: 0.9vw;
+}
+.ancientgames .thongtin2{
+    font-size: 1.2vw;
+}

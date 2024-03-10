@@ -1,0 +1,42 @@
+.container-fluid h1 {
+    margin: 50px 0px;
+  }
+  .container-fluid .row {
+    margin: 0px 20px;
+  }
+  .container-fluid .row .a-product {
+    margin: 30px;
+  }
+  .container-fluid h2 {
+    margin: 30px 0px;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  .container-fluid .row a {
+    text-decoration: none;
+    color: black;
+  }
+  .card a .card-3 img,
+  .card-4 img,
+  .card-5 img,
+  .card-6 img,
+  .card-7 img,
+  .card-8 img,
+  .card-9 img,
+  .card-10 img,
+  .card-11 img {
+    height: 75%;
+    width: 100%;
+  }
+  .card-3,
+  .card-4,
+  .card-5,
+  .card-6,
+  .card-7,
+  .card-8,
+  .card-9,
+  .card-10,
+  .card-11 {
+    height: 250px;
+  }

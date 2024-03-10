@@ -1,0 +1,43 @@
+.error {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+}
+.q-a {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px;
+}
+.q-a .quan-login {
+  border: 2px solid black;
+  width: 40%;
+  text-align: center;
+}
+.q-a .quan-login h2 {
+  font-size: 30px;
+}
+.q-user {
+  padding: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.q-email {
+  padding: 5px;
+  margin-left: 44px;
+  margin-bottom: 10px;
+}
+.q-pw {
+  padding: 5px;
+  margin-left: 15px;
+}
+.quan-login .q-button {
+  margin: 30px 10px;
+  padding: 7px;
+  border-radius: 7px;
+  font-size: 15px;
+  background-color: greenyellow;
+}
+.quan-login .q-button:hover {
+  background-color: aquamarine;
+}
