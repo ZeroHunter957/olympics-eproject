@@ -71,17 +71,6 @@ function Header() {
                   </a>
                 </li>
               </ul>
-              <form className="d-flex" role="search">
-                <input
-                  className="form-control me-2"
-                  type="search"
-                  placeholder="Search"
-                  aria-label="Search"
-                />
-                <button class="btn btn-light border bg-white" type="submit">
-                  <FontAwesomeIcon icon={faMagnifyingGlass} />
-                </button>
-              </form>
             </div>
           </div>
         </nav>
