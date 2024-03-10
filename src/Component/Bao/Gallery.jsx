@@ -12,6 +12,20 @@ function Gallery() {
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <img
+                    src="./images/Bao/assets/Gallery/gallery9.webp"
+                    className="d-block w-100"
+                    alt=""
+                  />
+                  <div className="carousel-caption d-none d-md-block">
+                    <h5>The Olympic rings</h5>
+                    <p>
+                      The Olympic Rings outside the Okura Hotel during TOKYO
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="carousel-item">
+                  <img
                     src="./images/Bao/assets/Gallery/gallery1.webp"
                     className="d-block w-100"
                     alt=""
@@ -103,20 +117,7 @@ function Gallery() {
                     <h5>Tokyo 2020</h5>
                   </div>
                 </div>
-                <div className="carousel-item">
-                  <img
-                    src="./images/Bao/assets/Gallery/gallery9.webp"
-                    className="d-block w-100"
-                    alt=""
-                  />
-                  <div className="carousel-caption d-none d-md-block">
-                    <h5>The Olympic rings</h5>
-                    <p>
-                      The Olympic Rings outside the Okura Hotel during TOKYO
-                      2020
-                    </p>
-                  </div>
-                </div>
+                
                 <div className="carousel-item">
                   <img
                     src="./images/Bao/assets/Gallery/gallery10.webp"
