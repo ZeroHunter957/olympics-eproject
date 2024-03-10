@@ -8,7 +8,7 @@
   <a  href="https://github.com/ZeroHunter957/olympics-eproject/tree/master"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/ZeroHunter957/olympics-eproject/tree/master/document" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="#" target="_blank">View demo</a>
+  <br  /><a  href="https://olympicseproject.vercel.app/" target="_blank">View demo</a>
   <a  href="https://drive.google.com/file/d/1-GTzIq7edFxsbJv4sNDzFaFedH3XToa-/preview" width="640" height="480" allow="autoplay" target="_blank">Video</a>
 
 
