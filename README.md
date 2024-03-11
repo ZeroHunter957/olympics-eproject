@@ -9,7 +9,7 @@
   <a  href="https://github.com/ZeroHunter957/olympics-eproject/tree/master/document" target="_blank"><strong>Explore the documents »</strong></a>
 
   <br  /><a  href="https://1olympics-eproject.vercel.app/" target="_blank">View demo</a>
-  <a  href="https://drive.google.com/file/d/1gGa9QShw5PdeUOtrM1IqcroIe3Q8eAyz/view" width="640" height="480" allow="autoplay" target="_blank">Video</a>
+  <a  href="https://youtu.be/WlAz7QwCq1k" width="640" height="480" allow="autoplay" target="_blank">Video</a>
 
 
 <h3>Built With</h3>
